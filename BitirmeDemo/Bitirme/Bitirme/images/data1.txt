@@ -1,0 +1,8 @@
+ciftci.png tarla.png
+maymun.png muz.png
+ari.png bal.png
+kutupAyisi.png buzDagi.png
+balik.png akvaryum.png
+yagmur.png semsiye.png
+doktor.png stetoskop.png
+elma.png elmaKurdu.png

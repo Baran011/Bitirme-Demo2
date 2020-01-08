@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\mbara\desktop\sfml\bitirme\bitirme\bitirme\main.cpp(19): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: void __thiscall sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QAEXI@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: __thiscall sf::CircleShape::CircleShape(float,unsigned int)" (__imp_??0CircleShape@sf@@QAE@MI@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: virtual __thiscall sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UAE@XZ), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z), _main işlevinde başvurdu
+main.obj : error LNK2019: Çözümlenmemiş dış sembol "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ), _main işlevinde başvurdu
+main.obj : error LNK2001: Çözümlenmemiş dış sembol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+main.obj : error LNK2001: Çözümlenmemiş dış sembol "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)
+C:\Users\mbara\Desktop\sfml\Bitirme\Bitirme\Debug\Bitirme.exe : fatal error LNK1120: 19 çözümlenmemiş dışlar

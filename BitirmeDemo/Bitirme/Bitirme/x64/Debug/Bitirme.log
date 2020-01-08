@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\mbara\desktop\bitirmedemo\bitirme\bitirme\kelimeoyun.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': makro yeniden tanımlama
+  c:\users\mbara\desktop\bitirmedemo\bitirme\bitirme\menu.h(4): note: önceki 'MAX_NUMBER_OF_ITEMS' tanımına bakın
+c:\users\mbara\desktop\bitirmedemo\bitirme\bitirme\main.cpp(27): warning C4244: 'bağımsız değişken': 'unsigned int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\mbara\desktop\bitirmedemo\bitirme\bitirme\main.cpp(67): warning C4244: 'bağımsız değişken': 'unsigned int' - 'float' dönüşümü; veri kaybı olabilir
+  Bitirme.vcxproj -> C:\Users\mbara\Desktop\BitirmeDemo\Bitirme\x64\Debug\Bitirme.exe
