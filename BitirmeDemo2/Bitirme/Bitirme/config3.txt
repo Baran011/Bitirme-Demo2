@@ -1,0 +1,7 @@
+windowsize:1000 800
+title:Match Game !
+grid:4 4
+itemsize:125 125
+range:25 25
+default:images/default.jpg
+data:images/data3.txt

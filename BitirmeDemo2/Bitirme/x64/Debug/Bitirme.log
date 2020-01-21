@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\mbara\desktop\sfml\bitirme\bitirme\bitirme\main.cpp(19): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Bitirme.vcxproj -> C:\Users\mbara\Desktop\sfml\Bitirme\Bitirme\x64\Debug\Bitirme.exe

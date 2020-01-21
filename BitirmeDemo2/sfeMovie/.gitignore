@@ -1,0 +1,8 @@
+*.o
+*.d
+.DS_Store
+build
+SourceDir.var
+BuildDir.var
+YasmPath.var
+ci-output/

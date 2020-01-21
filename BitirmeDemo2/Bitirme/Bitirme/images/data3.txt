@@ -1,0 +1,8 @@
+araba.png araba.png
+agac.png agac.png
+ari.png ari.png
+elma.png elma.png
+kedi.png kedi.png
+kelebek.png kelebek.png
+salincak.png salincak.png
+kopek.png kopek.png
